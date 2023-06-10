@@ -1,4 +1,7 @@
+#Batch 15 Developer 1 project
 # Salesforce DX Project: Next Steps
+
+We will have all classes, triggers, codes...etc that we learned in past 10 weeks
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
